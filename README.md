@@ -35,11 +35,12 @@ Create a very simple web application that shows list of job opportunities and a 
 ### Acceptance Criteria
 - Your React app fetches data from the API you created and displays it in the UI
 - Your API has two endpoints. One for getting list of jobs and one for filtering.
+- When user filter a job, Your react app fetches data from the filtering endpoint.
 - Your app is easy to install and run locally
 - The code is clean, well-structured and easy to understand
 
 
-### Bonus
+### Bonus  (not required but nice-to-have)
 - Using Redux or any State managment library.
 - Unit tests for both React and PHP code.
 
