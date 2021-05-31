@@ -1,4 +1,4 @@
-# Sendinblue Full Stack Developer Challenge
+# Sendinblue (Junior)Full Stack Developer Challenge
 
 > Hello, thank you for taking on our challenge! We hope that you'll enjoy creating an awesome project and join the Sendinblue team.
 
@@ -18,11 +18,7 @@ The project should be contained in one repository (monorepo), Example:
 └── README.md # documentation
 ```
 
-The `server` and `client` directories should have their own simple `Dockerfile`, so that they can be built and run individually.
-
-The `docker-compose.yml` file should define all the services, which will be automatically built and started upon calling `docker-compose up`.
-
-
+You can keep API (Backend) code in the `server` folder and UI code in the `client` folder (This is just an example but you can decide however you want).
 After you completing the project, Send us an email and we will have it reviewed
 
 ## The Challenge
@@ -38,11 +34,13 @@ Create a very simple web application that shows list of job opportunities and a 
 - When user filter a job, Your react app fetches data from the filtering endpoint.
 - Your app is easy to install and run locally
 - The code is clean, well-structured and easy to understand
+- It's up to you to decide about the database setup(if needed).
 
 
 ### Bonus  (not required but nice-to-have)
 - Using Redux or any State managment library.
 - Unit tests for both React and PHP code.
+- Dockerize your app. This way we can run both API and UI in a single command. `docker-compose up`.
 
 ### Stack and technical requisites
 
