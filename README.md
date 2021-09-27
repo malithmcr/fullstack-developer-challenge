@@ -25,7 +25,7 @@ After you completing the project, Send us an email and we will have it reviewed
 
 #### Build a job listings web appliaction
 
-Create a very simple web application that shows list of job opportunities and a Rest APIs where you can get all the job data. Jobs should be filterable by Location, Department and Type. As a reference you can follow Sapera [job page](https://sapera.com/en/career)
+Create a very simple web application that shows list of job opportunities and a Rest APIs where you can get all the job data. Jobs should be filterable by Department. As a reference you can follow Sapera [job page](https://sapera.com/en/career)
 
 
 ### Acceptance Criteria
@@ -39,14 +39,14 @@ Create a very simple web application that shows list of job opportunities and a 
 
 ### Bonus  (not required but nice-to-have)
 - Using Redux or any State managment library.
-- Unit tests for both React and PHP code.
+- Unit tests for both React and Nodejs code.
 - Dockerize your app. This way we can run both API and UI in a single command. `docker-compose up`.
 
 ### Stack and technical requisites
 
-- Use React.js or any React framwork.
+- Use React.js or any React framwork (Next.js).
 - Feel free to use any CSS or SCSS framwork.
-- Use PHP for the rest API
+- Use Node.js for the rest API
  
 __You don’t have to worry about:__
 
