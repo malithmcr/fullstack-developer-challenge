@@ -1,6 +1,6 @@
-# Sendinblue (Junior)Full Stack Developer Challenge
+# Sapera (Mid)Frontend Developer Challenge
 
-> Hello, thank you for taking on our challenge! We hope that you'll enjoy creating an awesome project and join the Sendinblue team.
+> Hello, thank you for taking on our challenge! We hope that you'll enjoy creating an awesome project and join the Sapera team.
 
 **Note:** Please don't fork this repository, or create a pull request against it. Otherwise other applicants may take inspiration from it. Once the coding challenge is completed, you can submit your github repository url via email.
 
@@ -25,7 +25,7 @@ After you completing the project, Send us an email and we will have it reviewed
 
 #### Build a job listings web appliaction
 
-Create a very simple web application that shows list of job opportunities and a Rest APIs where you can get all the job data. Jobs should be filterable by Location, Department and Type. As a reference you can follow sendinblue [job page](https://jobs.sendinblue.com/en/tech#Tech)
+Create a very simple web application that shows list of job opportunities and a Rest APIs where you can get all the job data. Jobs should be filterable by Location, Department and Type. As a reference you can follow Sapera [job page](https://sapera.com/en/career)
 
 
 ### Acceptance Criteria
