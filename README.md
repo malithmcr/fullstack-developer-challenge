@@ -44,7 +44,7 @@ Create a very simple web application that shows list of job opportunities and a 
 
 ### Stack and technical requisites
 
-- Use React.js or any React framwork (Next.js).
+- Use React.js(Typescript) or any React framwork (Next.js).
 - Feel free to use any CSS or SCSS framwork.
 - Use Node.js for the rest API
  
